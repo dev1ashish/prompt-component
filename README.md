@@ -8,9 +8,6 @@
 - Works OK on your phone.
 - Probably won't kill everyone.
 
-## Try on nat.dev
-
-Try the hosted version: [nat.dev](https://nat.dev).
 
 ## How to install and run
 
